@@ -1,0 +1,42 @@
+/*
+Author: Tadhg Deeney
+Course: Data Analytics
+Number: 17186226
+Date: 	7/9/2017
+
+Description:
+This Program is for Day 9 Lab 1
+
+Task:
+Write a program called starRectangle that 
+takes in the number of rows and the number of stars in each row 
+and prints out a rectangle with that many stars in each row of stars. For
+example, the following has 4 rows and 12 stars in each row. 
+
+************
+************
+************
+************
+
+*/
+import java.util.Scanner;
+public class D9L2Task1
+{
+	public static void main(String[] args)
+	{
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter the number of Rows: ");
+		int r = sc.nextInt();
+		System.out.println("Enter the number of Stars: ");
+		int s = sc.nextInt();
+		
+		for(int i = 0; i < r; i++)
+		{
+			for(int j = 0; j < s; j++)
+			{
+				System.out.print("*");
+			}
+			System.out.println();
+		}
+	}
+}

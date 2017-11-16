@@ -1,0 +1,37 @@
+-------------------MyDetails.java----------------------
+
+Stores your Name & Student Number
+Prints out a sentence that includes the added Name & Number
+
+Stores Student Details
+	Declare a String that identifies the Student's Name
+	Initialize it to the Student Name
+
+	Declare a String to identify the Student Number
+	Initialize the String to the Student Number
+
+Print Student Details
+	Print the Student's Name and their Student Number
+	
+--------------------------Variables.java------------------------
+Create a Numeric Value for 3 Variables
+Print the Value of each Variable
+	
+
+-------------------ModifyingVariables.java----------------------
+Creates an Numeric Value for 3 Variables
+Each Variable is added together to get the Sum
+Each Variable is multiplied together to get the Product
+
+Declare & Initialize Variables
+	Declares 3 Integers: num1, num2, num3
+	Initialise the Values for each Integers
+
+Find Sum
+	Add each of the ints together (num1 + num2 + num3)
+	Print out the result for the Sum
+	
+Find Product	
+	Multiply each of the ints together
+	Print out the result for the Product
+	

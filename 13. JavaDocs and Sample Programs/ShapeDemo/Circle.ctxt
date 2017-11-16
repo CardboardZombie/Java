@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=r
+comment0.target=Circle(int)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Circle\r\n
+comment1.params=r\ colourValue\ shapeType
+comment1.target=Circle(int,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Circle\ constructor\ \:\ \r\n\ @param\ r\ the\ radius\ of\ the\ circle\r\n
+comment2.params=
+comment2.target=int\ getRadius()
+comment2.text=\r\n\ This\ provides\ the\ radius\ of\ the\ circle\r\n\ @return\ the\ radius\ of\ the\ circle.\r\n
+comment3.params=num
+comment3.target=void\ setRadius(int)
+comment3.text=\r\n\ This\ sets\ the\ radius\ of\ the\ circle\r\n\ @param\ num\ the\ new\ value\ for\ the\ radius\ of\ the\ circle.\r\n
+numComments=4
